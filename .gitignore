@@ -1,1 +1,4 @@
 C++/**/*.o
+C++/**/demo
+C++/**/.cache/
+compile_commands.json
