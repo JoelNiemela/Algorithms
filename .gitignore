@@ -1,4 +1,5 @@
 C++/**/*.o
 C++/**/demo
 C++/**/.cache/
+Python/**/__pycache__/
 compile_commands.json
